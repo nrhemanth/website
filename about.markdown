@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-<img src="{{ site.baseurl }}/assets/img/profile_image.jpg" width="250" style="float:left; margin-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/profile_image.png" width="250" style="float:left; margin-right:20px;">
 
 Hi, I am Hemanth (pronounced *hey-month*). I’m a PhD student in Mechanical Engineering at the University of Washington, advised by [Prof. Shijing Sun](https://www.uwsunlab.com/). My research focuses on the digital transformation of battery manufacturing.
 
