@@ -22,7 +22,7 @@ title: Hemanth Neelgund Ramesh
 email: hemnr31@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
   materials science, batteries, ML and coffee.
-baseurl: "hemanthnr" # the subpath of your site, e.g. /blog
+baseurl: "/hemanthnr" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hemanthnr11
 github_username: nrhemanth
