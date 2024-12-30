@@ -7,7 +7,7 @@ order: 1
 
 <img src="{{ site.baseurl }}/assets/img/profile_image.png" width="250" style="float:left; margin-right:20px;">
 
-Hi, I am Hemanth (pronounced *hey-month*). I’m a PhD student in Mechanical Engineering at the University of Washington, advised by [Prof. Shijing Sun](https://www.uwsunlab.com/). My research focuses on the digital transformation of battery manufacturing.
+Hi, I am Hemanth (pronounced *hey-month*). I’m a PhD student in Mechanical Engineering at the University of Washington, advised by [Prof. Shijing Sun](https://www.uwsunlab.com/). My main research focuses on the digital transformation of battery manufacturing. In addition, I have also been working on generative models for simulating battery profiles for diverse conditions.
 
 Earlier, I completed my MS in Materials Science and Engineering at UW with [Prof. Guozhong Cao](https://mse.washington.edu/facultyfinder/guozhong-cao) and [Prof. Shijing Sun](https://www.me.washington.edu/facultyfinder/shijing-sun). Here, my research was on battery informatics and explainable ML [(thesis)](https://github.com/nrhemanth/MS-thesis/blob/main/docs/MS_thesis_final.pdf). Even earlier, I was an undergraduate at NITK Surathkal, where I was advised by [Prof. K Narayan Prabhu](https://mme.nitk.ac.in/faculty/k-narayan-prabhu).
 
